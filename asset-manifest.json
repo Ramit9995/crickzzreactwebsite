@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/crickzzreactwebsite/static/css/main.a015f78e.chunk.css",
+    "main.js": "/crickzzreactwebsite/static/js/main.78ebdc23.chunk.js",
+    "main.js.map": "/crickzzreactwebsite/static/js/main.78ebdc23.chunk.js.map",
+    "runtime-main.js": "/crickzzreactwebsite/static/js/runtime-main.41d971c6.js",
+    "runtime-main.js.map": "/crickzzreactwebsite/static/js/runtime-main.41d971c6.js.map",
+    "static/js/2.11ea8b8f.chunk.js": "/crickzzreactwebsite/static/js/2.11ea8b8f.chunk.js",
+    "static/js/2.11ea8b8f.chunk.js.map": "/crickzzreactwebsite/static/js/2.11ea8b8f.chunk.js.map",
+    "index.html": "/crickzzreactwebsite/index.html",
+    "static/css/main.a015f78e.chunk.css.map": "/crickzzreactwebsite/static/css/main.a015f78e.chunk.css.map",
+    "static/js/2.11ea8b8f.chunk.js.LICENSE.txt": "/crickzzreactwebsite/static/js/2.11ea8b8f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/crickzzreactwebsite/static/media/sachin.6d6fa187.jpg",
+    "static/media/General.css": "/crickzzreactwebsite/static/media/ind-vic-5.43d1d2ca.jpg",
+    "static/media/HeroSection.css": "/crickzzreactwebsite/static/media/crick_animated_pic2.4232cd13.jpg",
+    "static/media/Countries.css": "/crickzzreactwebsite/static/media/flags2.aebb6f37.jpg",
+    "static/media/Scoreboard.css": "/crickzzreactwebsite/static/media/score.213ea6d1.jpg",
+    "static/media/Stadium.css": "/crickzzreactwebsite/static/media/stadium.fc1304db.jpg",
+    "static/media/Tourney.css": "/crickzzreactwebsite/static/media/tourney3.c4b58471.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41d971c6.js",
+    "static/js/2.11ea8b8f.chunk.js",
+    "static/css/main.a015f78e.chunk.css",
+    "static/js/main.78ebdc23.chunk.js"
+  ]
+}
