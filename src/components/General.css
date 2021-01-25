@@ -1,0 +1,101 @@
+.players {
+  padding: 4rem;
+  background: #fff;
+  text-align: center;
+}
+
+.player-title {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  max-width: 1120px;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.player-info {
+  position: relative;
+  margin: 50px 0 45px;
+  border: 3px solid #3333ff;
+  background-color: cornflowerblue;
+}
+
+.aus-player-info {
+  position: relative;
+  margin: 50px 0 45px;
+  border: 3px solid #cccc00;
+  background-color: #ffff66;
+}
+
+.player-info,
+.aus-player-info > h3 {
+  text-align: center;
+  position: relative;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.player-info,
+.aus-player-info > h4 {
+  text-align: center;
+  position: relative;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.country-container,
+.aus-container {
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.2);
+  object-fit: contain;
+  color: white;
+}
+
+.country-container {
+  background: url("/src/images/ind-vic-5.jpg");
+}
+.aus-container {
+  background: url("/src/images/aus-vic.jpg");
+}
+
+.country-container,
+.aus-container > h1 {
+  font-size: 50px;
+  margin-top: -100px;
+}
+.country-container,
+.aus-container > p {
+  font-size: 30px;
+}
+
+a {
+  color: white;
+}
+
+@media screen and (max-width: 960px) {
+  .country-container,
+  .aus-container > h1 {
+    font-size: 70px;
+    margin-top: -150px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .country-container,
+  .aus-container > h1 {
+    font-size: 50px;
+    margin-top: -100px;
+  }
+}
+.country-container,
+.aus-container {
+  font-size: 30px;
+}

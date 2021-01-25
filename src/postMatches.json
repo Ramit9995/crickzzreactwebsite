@@ -1,0 +1,35 @@
+[
+    {
+        "match": 1,
+        "team1":"Afghanistan (AFG)",
+        "team2":"Ireland (IRE)",
+        "result":"AFG won by 16 runs",
+        "team1Score":"287/9 (50)",
+        "team2Score":"271/9 (50)",
+        "manOfTheMatch":"Rahmanullah Gurbaz",
+        "bowlerOfTheMatch":"Lorcan Tucker",
+        "bestFielder":"Javed Ahmadi"
+    },
+    {
+        "match": 2,
+        "team1":"West Indies (WI)",
+        "team2":"Bangladesh (BAN)",
+        "result":"BAN won by 7 wickets",
+        "team1Score":"148 (43.4)",
+        "team2Score":"149/3 (33.2)",
+        "manOfTheMatch":"Mehidy Hasan",
+        "bowlerOfTheMatch":"Rovman Powell",
+        "bestFielder":"Liton Das"
+    },
+    {
+        "match": 3,
+        "team1":"India (IND)",
+        "team2":"Pakistan (PAK)",
+        "result":"IND won by 10 runs",
+        "team1Score":"287/7 (50)",
+        "team2Score":"277/9 (50)",
+        "manOfTheMatch":"Ravindra Jadeja",
+        "bowlerOfTheMatch":"Shoaib Malik",
+        "bestFielder":"Umar Akmal"
+    }
+]

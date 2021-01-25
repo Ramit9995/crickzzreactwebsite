@@ -1,0 +1,63 @@
+.score-container {
+  background: url("/src/images/score.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.2);
+  object-fit: contain;
+  color: white;
+}
+
+.score-container > h1 {
+  font-size: 50px;
+}
+
+.row {
+  margin-left: -5px;
+  margin-right: -5px;
+}
+
+.column {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding: 5px;
+}
+
+.score-highlights {
+  padding: 4rem;
+}
+
+table {
+  border-collapse: separate;
+  border-spacing: 3px;
+  width: 70%;
+  border: 3px solid #ddd;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+th {
+  text-align: center;
+}
+
+td {
+  text-align: left;
+  padding: 10px;
+}
+
+tr {
+  background-color: #f2f2f2;
+}
+
+@media screen and (max-width: 768px) {
+  .column {
+    width: 100%;
+  }
+}

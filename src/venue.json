@@ -1,0 +1,102 @@
+[
+    {
+        "name":"Sardar Patel Stadium",
+        "place":"Ahmedabad, Gurat",
+        "capacity":"110,000",
+        "noOfMatches":36,
+        "firstMatch":"12 November 1983",
+        "lastMatch":"6 November 2019",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Arun_Jaitley_Stadium_during_India_vs_Australia_2019_ODI.jpg/330px-Arun_Jaitley_Stadium_during_India_vs_Australia_2019_ODI.jpg",
+        "site":"https://en.wikipedia.org/wiki/Sardar_Patel_Stadium"
+    },
+    {
+        "name":"PR International Stadium",
+        "place":"Kolkata, West Bengal",
+        "capacity":"66,349",
+        "noOfMatches":60,
+        "firstMatch":"5 January 1934",
+        "lastMatch":"22 November 2019",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Greenfield_International_Stadium_Kerala.jpg/400px-Greenfield_International_Stadium_Kerala.jpg",
+        "site":"https://en.wikipedia.org/wiki/Eden_Gardens"
+    },
+    {
+        "name":"Holker Stadium",
+        "place":"Indore, Madhya Pradesh",
+        "capacity":"30,000",
+        "noOfMatches":9,
+        "firstMatch":"15 April 2006",
+        "lastMatch":"7 January 2020",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Maharani_Usha_Raje_Cricket_Stadium_Indore_-_panoramio.jpg/405px-Maharani_Usha_Raje_Cricket_Stadium_Indore_-_panoramio.jpg",
+        "site":"https://en.wikipedia.org/wiki/Holkar_Stadium"
+    },
+    {
+        "name":"Rajiv Gandhi International Stadium",
+        "place":"Dehradun, Uttarakhand",
+        "capacity":"25,000",
+        "noOfMatches":12,
+        "firstMatch":"3 June 2018",
+        "lastMatch":"15 March 2019",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Dehradun_cricket_stadium.jpg/450px-Dehradun_cricket_stadium.jpg",
+        "site":"https://en.wikipedia.org/wiki/Rajiv_Gandhi_International_Cricket_Stadium,_Dehradun"
+    },
+    {
+        "name":"Himachal Cricket Association Stadium",
+        "place":"Dharamshala, Himachal Pradesh",
+        "capacity":"25,000",
+        "noOfMatches":12,
+        "firstMatch":"27 January 2013",
+        "lastMatch":"10 December 2017",
+        "image":"https://lh3.googleusercontent.com/proxy/0jhVqUuci9LRd8_nLo_-6xCs2vpasC1dnC1xbzFjiF5GkQJTSumSY80slJpflwrjI5HGtP9IgFqb9MPUNefNgamq381LN1aC3MsGDtKDsUj7l6DM77_vOEXkvrJDjix94Oqd54zP-7U3LfnUC6ZU02hKGfab0fYSMsv3fh_E1auL_GzPqB4NcXxiZD5F6hO9wvDtkbiXE5Jqirio_N-kS0QLjQ9b4XCK_M5UjTW8ZH4ZYRRu8CtUvMhFYNLQRDqyNiLgy9c7",
+        "site":"https://en.wikipedia.org/wiki/Himachal_Pradesh_Cricket_Association_Stadium"
+    },
+    {
+        "name":"Barsapara Stadium",
+        "place":"Guwahti, Assam",
+        "capacity":"40,000",
+        "noOfMatches":3,
+        "firstMatch":"10 October 2017",
+        "lastMatch":"5 January 2020",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Barsapara_Cricket_Stadium_match_under_floodlights.jpg/435px-Barsapara_Cricket_Stadium_match_under_floodlights.jpg",
+        "site":"https://en.wikipedia.org/wiki/Barsapara_Stadium"
+    },
+    {
+        "name":"Greater Noida Sports Ground",
+        "place":"Greater Noida, Uttar Pradesh",
+        "capacity":"8,000",
+        "noOfMatches":11,
+        "firstMatch":"8 March 2017",
+        "lastMatch":"10 March 2020",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Greenfield_International_Stadium_Kerala_2.jpg/420px-Greenfield_International_Stadium_Kerala_2.jpg",
+        "site":"https://en.wikipedia.org/wiki/Shaheed_Vijay_Singh_Pathik_Sports_Complex"
+    },
+    {
+        "name":"Maharashtra CA Stadium",
+        "place":"Pune, Maharashtra",
+        "capacity":"37,000",
+        "noOfMatches":10,
+        "firstMatch":"20 December 2012",
+        "lastMatch":"10 January 2020",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Sahara_Stadium_Pune_1.jpg/405px-Sahara_Stadium_Pune_1.jpg",
+        "site":"https://en.wikipedia.org/wiki/Maharashtra_Cricket_Association_Stadium"
+    },
+    {
+        "name":"Vidarbha Stadium",
+        "place":"Nagpur, Maharashtra",
+        "capacity":"45,000",
+        "noOfMatches":27,
+        "firstMatch":"6 November 2008",
+        "lastMatch":"10 November 2019",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/VCA%2CNagpur.jpg/405px-VCA%2CNagpur.jpg",
+        "site":"https://en.wikipedia.org/wiki/Vidarbha_Cricket_Association_Stadium"
+    },
+    {
+        "name":"Dr.YS Reddy Stadium",
+        "place":"Visakhapatnam, Andhra Pradesh",
+        "capacity":"25,000",
+        "noOfMatches":13,
+        "firstMatch":"5 April 2005",
+        "lastMatch":"18 December 2019",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Vizag2ndInnings-2016Nov21.jpg/405px-Vizag2ndInnings-2016Nov21.jpg",
+        "site":"https://en.wikipedia.org/wiki/Dr._Y._S._Rajasekhara_Reddy_ACA%E2%80%93VDCA_Cricket_Stadium"
+    }
+]

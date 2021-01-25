@@ -1,0 +1,69 @@
+* {
+  box-sizing: border-box;
+}
+
+.tournament-container {
+  background: url("/src/images/tourney3.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.2);
+  object-fit: contain;
+  color: white;
+}
+
+.tournament-container > h1 {
+  font-size: 50px;
+}
+
+.row {
+  margin-left: -5px;
+  margin-right: -5px;
+}
+
+.column {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding: 5px;
+}
+
+.match-highlights {
+  padding: 4rem;
+}
+
+.upcoming-matches {
+  padding: 4rem;
+}
+
+.tab {
+  border-collapse: collapse;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+th {
+  text-align: center;
+}
+
+td {
+  text-align: left;
+  padding: 10px;
+}
+
+tr {
+  background-color: #f2f2f2;
+}
+
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}

@@ -1,0 +1,90 @@
+[
+    {
+        "fullName": "Mayank Agarwal",
+        "born": "16-02-1991",
+        "currentAge": 29,
+        "majorTeams":["India ","Belgavi Panthers ","RCB"],
+        "playingRole": "Batsman",
+        "playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171091/mayank-agarwal.jpg"
+    },
+    {
+        "fullName": "Yuzvendra Chahal",
+        "born": "23-07-1990",
+        "currentAge": 30,
+        "majorTeams":["India ","Haryana ","MI"],
+        "playingRole": "Bowler",
+        "playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170690/yuzvendra-chahal.jpg"
+    },
+    {
+        "fullName": "Shreyas Iyer",
+        "born": "06-12-1994",
+        "currentAge": 26,
+        "majorTeams":["India ","DC"],
+        "playingRole": "Top-Order Batsman",
+        "playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171024/shreyas-iyer.jpg"
+    },
+    {
+        "fullName": "Kuldeep Yadav",
+        "born": "14-12-1994",
+        "currentAge": 26,
+        "majorTeams":["India ","KKR"],
+        "playingRole": "Bowler",
+        "playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170683/kuldeep-yadav.jpg"
+    },
+    {
+        "fullName": "KL Rahul",
+        "born": "19-04-1992",
+        "currentAge": 28,
+        "majorTeams":["India ","RCB"],
+        "playingRole": "Opening Batsman",
+        "playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170673/kl-rahul.jpg"
+    },
+    {
+        "fullName": "R Ashwin",
+        "born": "17-09-1986",
+        "currentAge": 34,
+        "majorTeams":["India ","CSK ","DC"],
+        "playingRole": "Bowling Allrounder",
+        "playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c153372/ravichandran-ashwin.jpg"
+    },
+    {
+        "fullName": "Manish Pandey",
+        "born": "10-09-1989",
+        "currentAge": 31,
+        "majorTeams":["India ","Belgavi Panthers"],
+        "playingRole": "Top-Order Batsman",
+        "playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171022/manish-pandey.jpg"
+    },
+    {
+        "fullName": "Ravindra Jadeja",
+        "born": "06-12-1988",
+        "currentAge": 32,
+        "majorTeams":["India ","CSK ","Gujarat Lions"],
+        "playingRole": "Allrounder",
+        "playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170670/ravindra-jadeja.jpg"
+    },
+    {
+        "fullName": "Cheteshwar Pujara",
+        "born": "25-01-1988",
+        "currentAge": 32,
+        "majorTeams":["India ","KP"],
+        "playingRole": "Top-Order Batsman",
+        "playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c153263/cheteshwar-pujara.jpg"
+    },
+    {
+        "fullName": "Shubham Gill",
+        "born": "08-09-1999",
+        "currentAge": 21,
+        "majorTeams":["India ","KKR"],
+        "playingRole": "Opening Batsman",
+        "playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c171042/shubman-gill.jpg"
+    },
+    {
+        "fullName": "Hardik Pandya",
+        "born": "07-08-1992",
+        "currentAge": 28,
+        "majorTeams":["India ","MI"],
+        "playingRole": "Batsman",
+        "playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170666/hardik-pandya.jpg"
+    }
+]

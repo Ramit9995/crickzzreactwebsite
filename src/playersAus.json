@@ -1,0 +1,90 @@
+[
+    {
+        "fullName": "Aaron Finch",
+        "born": "17-11-1986",
+        "currentAge": 34,
+        "majorTeams":["Australia ","DC ","RCB"],
+        "playingRole": "Batsman",
+        "playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170630/aaron-finch.jpg"
+    },
+    {
+        "fullName": "David Warner",
+        "born": "27-10-1986",
+        "currentAge": 34,
+        "majorTeams":["Australia ","Sydney Thunders ","MI"],
+        "playingRole": "Bowler",
+        "playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170635/david-warner.jpg"
+    },
+    {
+        "fullName": "Will Pucovski",
+        "born": "02-02-1998",
+        "currentAge": 22,
+        "majorTeams":["Australia ","DC"],
+        "playingRole": "Top-Order Batsman",
+        "playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c165716/will-pucovski.jpg"
+    },
+    {
+        "fullName": "Glenn Maxwell",
+        "born": "14-12-1994",
+        "currentAge": 26,
+        "majorTeams":["Australia ","KKR"],
+        "playingRole": "Bowler",
+        "playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170641/glenn-maxwell.jpg"
+    },
+    {
+        "fullName": "Moises Henriques",
+        "born": "19-04-1992",
+        "currentAge": 28,
+        "majorTeams":["Australia ","RCB"],
+        "playingRole": "Opening Batsman",
+        "playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c152405/moises-henriques.jpg"
+    },
+    {
+        "fullName": "Travis Head",
+        "born": "17-09-1986",
+        "currentAge": 34,
+        "majorTeams":["Australia ","CSK ","DC"],
+        "playingRole": "Bowling Allrounder",
+        "playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c147703/travis-head.jpg"
+    },
+    {
+        "fullName": "Ashton Agar",
+        "born": "10-09-1989",
+        "currentAge": 31,
+        "majorTeams":["Australia ","Belgavi Panthers"],
+        "playingRole": "Top-Order Batsman",
+        "playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155995/ashton-agar.jpg"
+    },
+    {
+        "fullName": "Daniel Sams",
+        "born": "06-12-1988",
+        "currentAge": 32,
+        "majorTeams":["Australia ","CSK ","Gujarat Lions"],
+        "playingRole": "Allrounder",
+        "playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c180315/daniel-sams.jpg"
+    },
+    {
+        "fullName": "Alex Carey",
+        "born": "25-01-1988",
+        "currentAge": 32,
+        "majorTeams":["Australia ","KP"],
+        "playingRole": "Top-Order Batsman",
+        "playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170667/alex-carey.jpg"
+    },
+    {
+        "fullName": "Tim Paine",
+        "born": "08-09-1999",
+        "currentAge": 21,
+        "majorTeams":["Australia ","KKR"],
+        "playingRole": "Opening Batsman",
+        "playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c155979/tim-paine.jpg"
+    },
+    {
+        "fullName": "Pat Cummins",
+        "born": "07-08-1992",
+        "currentAge": 28,
+        "majorTeams":["Australia ","MI"],
+        "playingRole": "Batsman",
+        "playerImage": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170651/pat-cummins.jpg"
+    }
+]

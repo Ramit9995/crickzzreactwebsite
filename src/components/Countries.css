@@ -1,0 +1,64 @@
+.countz-container {
+  background: url("/src/images/flags2.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.2);
+  object-fit: contain;
+  color: white;
+}
+
+.countz-container > h1 {
+  font-size: 50px;
+}
+
+.countryz-container {
+  padding: 4rem;
+  background: #fff;
+  text-align: center;
+}
+
+.countryz-title {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  max-width: 1120px;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.countryz-info {
+  position: relative;
+  margin: 50px 0 45px;
+  border: 3px solid #ddd;
+  background-color: #f2f2f2;
+}
+
+.countryz-info > h3 {
+  text-align: center;
+  position: relative;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.countryz-info > h4 {
+  text-align: center;
+  position: relative;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+/* .links {
+  color: black;
+  text-decoration: underline;
+} */
+
+.player-page {
+  color: black;
+}
